@@ -1,0 +1,19 @@
+{
+  "name": "mahmudul_portfolio",
+  "description": "mhrcoder.com portfolio",
+  "main": "server.js",
+  "authors": [
+    "Mahmudul Hasan <mahmudul.hasan.corp@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "www.mhrcoder.com",
+  "dependencies": {
+    "angular": "^1.6.4",
+    "bootstrap": "^3.3.7",
+    "angular-route": "^1.6.4",
+    "angular-bootstrap": "^2.5.0"
+  },
+  "install": {
+    "path": "client/libs"
+  }
+}
